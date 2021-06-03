@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-with open('./screener.json') as f:
+with open('./screener_low_price.json') as f:
     df = json.load(f)
 df = df['data']
 
@@ -11,4 +11,5 @@ for i in df:
   symbolLst.append(symbol)
 
 df = pd.DataFrame(symbolLst)
+df.columns = ['symbol']
 df.to_csv('./symbolLst.csv')
