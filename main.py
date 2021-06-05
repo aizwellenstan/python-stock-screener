@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-with open('./screener_low_price.json') as f:
+with open('./screener.json') as f:
     df = json.load(f)
 df = df['data']
 

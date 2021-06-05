@@ -1,0 +1,1185 @@
+,symbol,sector
+0,A,Health Technology
+1,AA,Non-Energy Minerals
+2,AACQ,Finance
+3,AAL,Transportation
+4,AAPL,Electronic Technology
+5,ABB,Producer Manufacturing
+6,ABBV,Health Technology
+7,ABC,Distribution Services
+8,ABEV,Consumer Non-Durables
+9,ABNB,Consumer Services
+10,ABT,Health Technology
+11,ABUS,Health Technology
+12,ACAD,Health Technology
+13,ACB,Process Industries
+14,ACGL,Finance
+15,ACI,Retail Trade
+16,ACN,Technology Services
+17,ADBE,Technology Services
+18,ADI,Electronic Technology
+19,ADM,Process Industries
+20,ADMA,Health Technology
+21,ADP,Technology Services
+22,ADSK,Technology Services
+23,ADT,Commercial Services
+24,ADVM,Health Technology
+25,AEE,Utilities
+26,AEG,Finance
+27,AEM,Non-Energy Minerals
+28,AEO,Retail Trade
+29,AEP,Utilities
+30,AER,Finance
+31,AES,Utilities
+32,AEVA,Electronic Technology
+33,AFL,Finance
+34,AFMD,Health Technology
+35,AFRM,Technology Services
+36,AG,Non-Energy Minerals
+37,AGEN,Health Technology
+38,AGI,Non-Energy Minerals
+39,AHCO,Finance
+40,AI,Technology Services
+41,AIG,Finance
+42,AJG,Finance
+43,AKAM,Technology Services
+44,AKBA,Health Technology
+45,ALB,Process Industries
+46,ALK,Transportation
+47,ALKS,Health Technology
+48,ALL,Finance
+49,ALLO,Health Technology
+50,ALLY,Finance
+51,ALTO,Process Industries
+52,ALXN,Health Technology
+53,AM,Industrial Services
+54,AMAT,Producer Manufacturing
+55,AMC,Consumer Services
+56,AMCR,Process Industries
+57,AMD,Electronic Technology
+58,AME,Producer Manufacturing
+59,AMGN,Health Technology
+60,AMKR,Electronic Technology
+61,AMPE,Health Technology
+62,AMRN,Health Technology
+63,AMRS,Process Industries
+64,AMTX,Process Industries
+65,AMWL,Technology Services
+66,AMX,Communications
+67,AMZN,Retail Trade
+68,ANF,Retail Trade
+69,ANGI,Technology Services
+70,ANTM,Health Services
+71,AON,Finance
+72,AOS,Producer Manufacturing
+73,APA,Energy Minerals
+74,APH,Electronic Technology
+75,API,Technology Services
+76,APO,Finance
+77,APPH,Process Industries
+78,APPS,Technology Services
+79,APTV,Producer Manufacturing
+80,AQB,Health Technology
+81,AQMS,Non-Energy Minerals
+82,AR,Energy Minerals
+83,ARDX,Health Technology
+84,ARES,Finance
+85,ARMK,Consumer Services
+86,ARRY,Electronic Technology
+87,ARVL,Consumer Durables
+88,ASAN,Technology Services
+89,ASB,Finance
+90,ASO,Retail Trade
+91,ASTS,Finance
+92,ASX,Electronic Technology
+93,ASXC,Commercial Services
+94,ATH,Finance
+95,ATHX,Health Technology
+96,ATI,Non-Energy Minerals
+97,ATNX,Health Technology
+98,ATOS,Health Technology
+99,ATUS,Consumer Services
+100,ATVI,Consumer Durables
+101,AU,Non-Energy Minerals
+102,AUPH,Health Technology
+103,AUTL,Health Technology
+104,AUY,Non-Energy Minerals
+105,AVGO,Electronic Technology
+106,AVTR,Process Industries
+107,AXL,Producer Manufacturing
+108,AXP,Finance
+109,AXTA,Process Industries
+110,AXU,Non-Energy Minerals
+111,AYRO,Producer Manufacturing
+112,AZEK,Producer Manufacturing
+113,AZN,Health Technology
+114,AZUL,Transportation
+115,BA,Electronic Technology
+116,BABA,Retail Trade
+117,BAC,Finance
+118,BAM,Finance
+119,BAX,Health Technology
+120,BB,Technology Services
+121,BBBY,Retail Trade
+122,BBD,Finance
+123,BBL,Non-Energy Minerals
+124,BBVA,Finance
+125,BBY,Retail Trade
+126,BCE,Communications
+127,BCRX,Health Technology
+128,BCS,Finance
+129,BDX,Health Technology
+130,BE,Producer Manufacturing
+131,BEKE,Technology Services
+132,BEN,Finance
+133,BEST,Transportation
+134,BFLY,Health Technology
+135,BG,Process Industries
+136,BGCP,Finance
+137,BGFV,Retail Trade
+138,BGS,Consumer Non-Durables
+139,BHC,Health Technology
+140,BHP,Non-Energy Minerals
+141,BIDU,Technology Services
+142,BIGC,Technology Services
+143,BIIB,Health Technology
+144,BILI,Technology Services
+145,BILL,Technology Services
+146,BJ,Retail Trade
+147,BK,Finance
+148,BKD,Health Services
+149,BKI,Technology Services
+150,BKR,Industrial Services
+151,BLDP,Producer Manufacturing
+152,BLDR,Producer Manufacturing
+153,BLL,Process Industries
+154,BLMN,Consumer Services
+155,BLNK,Consumer Services
+156,BMY,Health Technology
+157,BNGO,Health Technology
+158,BNS,Finance
+159,BNTX,Health Technology
+160,BORR,Industrial Services
+161,BOX,Technology Services
+162,BP,Energy Minerals
+163,BPY,Finance
+164,BRFS,Consumer Non-Durables
+165,BRK.B,Finance
+166,BSBR,Finance
+167,BSX,Health Technology
+168,BSY,Technology Services
+169,BTBT,Commercial Services
+170,BTG,Non-Energy Minerals
+171,BTI,Consumer Non-Durables
+172,BTU,Energy Minerals
+173,BTX,Health Technology
+174,BUD,Consumer Non-Durables
+175,BVN,Non-Energy Minerals
+176,BWA,Producer Manufacturing
+177,BX,Finance
+178,BYD,Consumer Services
+179,BYND,Consumer Non-Durables
+180,C,Finance
+181,CAG,Consumer Non-Durables
+182,CAH,Distribution Services
+183,CAN,Electronic Technology
+184,CARG,Technology Services
+185,CARR,Producer Manufacturing
+186,CAT,Producer Manufacturing
+187,CB,Finance
+188,CBAT,Producer Manufacturing
+189,CBRE,Finance
+190,CC,Process Industries
+191,CCIV,Finance
+192,CCJ,Non-Energy Minerals
+193,CCK,Process Industries
+194,CCL,Consumer Services
+195,CCO,Commercial Services
+196,CCXI,Health Technology
+197,CD,Technology Services
+198,CDE,Non-Energy Minerals
+199,CDEV,Energy Minerals
+200,CDNS,Technology Services
+201,CELH,Consumer Non-Durables
+202,CENX,Non-Energy Minerals
+203,CERN,Technology Services
+204,CERS,Health Technology
+205,CF,Process Industries
+206,CFG,Finance
+207,CFX,Producer Manufacturing
+208,CG,Finance
+209,CGC,Process Industries
+210,CGEN,Health Technology
+211,CHD,Consumer Non-Durables
+212,CHGG,Commercial Services
+213,CHNG,Technology Services
+214,CHPT,Retail Trade
+215,CHRW,Transportation
+216,CHS,Retail Trade
+217,CHWY,Retail Trade
+218,CHX,Process Industries
+219,CI,Health Services
+220,CIDM,Commercial Services
+221,CIEN,Electronic Technology
+222,CIG,Utilities
+223,CL,Consumer Non-Durables
+224,CLDR,Technology Services
+225,CLF,Non-Energy Minerals
+226,CLGX,Technology Services
+227,CLNE,Utilities
+228,CLOV,Finance
+229,CLR,Energy Minerals
+230,CLSK,Miscellaneous
+231,CLVS,Health Technology
+232,CLVT,Commercial Services
+233,CLX,Consumer Non-Durables
+234,CMA,Finance
+235,CMCSA,Consumer Services
+236,CME,Finance
+237,CMI,Producer Manufacturing
+238,CMS,Utilities
+239,CNC,Health Services
+240,CNDT,Commercial Services
+241,CNHI,Producer Manufacturing
+242,CNI,Transportation
+243,CNK,Consumer Services
+244,CNP,Utilities
+245,CNQ,Energy Minerals
+246,CNR,Producer Manufacturing
+247,CNX,Energy Minerals
+248,COF,Finance
+249,COG,Energy Minerals
+250,COMM,Electronic Technology
+251,COP,Energy Minerals
+252,COST,Retail Trade
+253,COTY,Consumer Non-Durables
+254,CP,Transportation
+255,CPB,Consumer Non-Durables
+256,CPE,Energy Minerals
+257,CPG,Energy Minerals
+258,CPRI,Retail Trade
+259,CPRT,Commercial Services
+260,CPRX,Health Technology
+261,CRBP,Health Technology
+262,CREE,Electronic Technology
+263,CRIS,Health Technology
+264,CRK,Energy Minerals
+265,CRM,Technology Services
+266,CRON,Process Industries
+267,CROX,Consumer Non-Durables
+268,CRSR,Technology Services
+269,CRWD,Technology Services
+270,CS,Finance
+271,CSCO,Technology Services
+272,CSIQ,Producer Manufacturing
+273,CSLT,Technology Services
+274,CSX,Transportation
+275,CTLT,Health Technology
+276,CTRM,Transportation
+277,CTSH,Technology Services
+278,CTVA,Process Industries
+279,CTXR,Health Technology
+280,CTXS,Technology Services
+281,CUK,Consumer Services
+282,CVE,Energy Minerals
+283,CVNA,Retail Trade
+284,CVS,Retail Trade
+285,CVX,Energy Minerals
+286,CWH,Retail Trade
+287,CX,Non-Energy Minerals
+288,CYH,Health Services
+289,CZR,Consumer Services
+290,D,Utilities
+291,DADA,Technology Services
+292,DAL,Transportation
+293,DAR,Process Industries
+294,DASH,Technology Services
+295,DB,Finance
+296,DBI,Retail Trade
+297,DBX,Technology Services
+298,DD,Process Industries
+299,DDD,Producer Manufacturing
+300,DDOG,Technology Services
+301,DE,Producer Manufacturing
+302,DELL,Electronic Technology
+303,DFS,Finance
+304,DG,Retail Trade
+305,DGX,Health Services
+306,DHI,Consumer Durables
+307,DHR,Health Technology
+308,DHT,Transportation
+309,DIS,Consumer Services
+310,DISCA,Consumer Services
+311,DISCK,Consumer Services
+312,DISH,Consumer Services
+313,DKNG,Technology Services
+314,DKS,Retail Trade
+315,DLTR,Retail Trade
+316,DM,Electronic Technology
+317,DNB,Technology Services
+318,DNMR,Finance
+319,DNN,Non-Energy Minerals
+320,DOCU,Technology Services
+321,DOW,Process Industries
+322,DOYU,Technology Services
+323,DQ,Process Industries
+324,DRI,Consumer Services
+325,DS,Consumer Services
+326,DSX,Transportation
+327,DT,Technology Services
+328,DUK,Utilities
+329,DVAX,Health Technology
+330,DVN,Energy Minerals
+331,DXC,Technology Services
+332,EA,Consumer Durables
+333,EAF,Producer Manufacturing
+334,EAT,Consumer Services
+335,EB,Technology Services
+336,EBAY,Consumer Services
+337,EBC,Finance
+338,EBON,Electronic Technology
+339,EC,Energy Minerals
+340,ECL,Process Industries
+341,ED,Utilities
+342,EDU,Consumer Services
+343,EGHT,Technology Services
+344,EGO,Non-Energy Minerals
+345,EH,Technology Services
+346,EIX,Utilities
+347,EL,Consumer Non-Durables
+348,ELAN,Process Industries
+349,ELY,Consumer Durables
+350,EMAN,Electronic Technology
+351,EMR,Producer Manufacturing
+352,ENB,Industrial Services
+353,ENDP,Health Technology
+354,ENIA,Utilities
+355,ENLC,Industrial Services
+356,ENPH,Electronic Technology
+357,EOG,Energy Minerals
+358,EPD,Industrial Services
+359,EQH,Finance
+360,EQNR,Energy Minerals
+361,EQT,Energy Minerals
+362,EQX,Non-Energy Minerals
+363,ERF,Energy Minerals
+364,ERIC,Electronic Technology
+365,ERJ,Electronic Technology
+366,ES,Utilities
+367,ESGC,Consumer Services
+368,ESI,Process Industries
+369,ESTC,Technology Services
+370,ET,Industrial Services
+371,ETN,Producer Manufacturing
+372,ETR,Utilities
+373,ETRN,Industrial Services
+374,ETSY,Commercial Services
+375,ETWO,Finance
+376,EURN,Transportation
+377,EVRG,Utilities
+378,EVRI,Consumer Services
+379,EW,Health Technology
+380,EXAS,Health Technology
+381,EXC,Utilities
+382,EXEL,Health Technology
+383,EXK,Non-Energy Minerals
+384,EXPD,Transportation
+385,EXPE,Consumer Services
+386,EXPI,Finance
+387,EXPR,Retail Trade
+388,EXTR,Electronic Technology
+389,EYES,Health Technology
+390,F,Consumer Durables
+391,FANG,Energy Minerals
+392,FAST,Distribution Services
+393,FB,Technology Services
+394,FBP,Finance
+395,FCEL,Electronic Technology
+396,FCX,Non-Energy Minerals
+397,FDX,Transportation
+398,FE,Utilities
+399,FEYE,Technology Services
+400,FHN,Finance
+401,FI,Industrial Services
+402,FINV,Finance
+403,FIS,Technology Services
+404,FISV,Technology Services
+405,FITB,Finance
+406,FL,Retail Trade
+407,FLDM,Health Technology
+408,FLEX,Electronic Technology
+409,FLO,Consumer Non-Durables
+410,FLR,Industrial Services
+411,FNB,Finance
+412,FNF,Finance
+413,FNKO,Consumer Durables
+414,FOLD,Health Technology
+415,FOX,Consumer Services
+416,FOXA,Consumer Services
+417,FRO,Transportation
+418,FRSX,Finance
+419,FSLR,Electronic Technology
+420,FSLY,Technology Services
+421,FSM,Non-Energy Minerals
+422,FSR,Finance
+423,FTCH,Technology Services
+424,FTFT,Consumer Non-Durables
+425,FTI,Industrial Services
+426,FTOC,Finance
+427,FTV,Electronic Technology
+428,FUBO,Consumer Services
+429,FUTU,Technology Services
+430,FUV,Consumer Durables
+431,G,Commercial Services
+432,GCI,Consumer Services
+433,GD,Electronic Technology
+434,GDRX,Technology Services
+435,GDS,Technology Services
+436,GE,Producer Manufacturing
+437,GENI,Finance
+438,GERN,Health Technology
+439,GEVO,Process Industries
+440,GFI,Non-Energy Minerals
+441,GGB,Non-Energy Minerals
+442,GILD,Health Technology
+443,GIS,Consumer Non-Durables
+444,GLNG,Transportation
+445,GLW,Electronic Technology
+446,GM,Consumer Durables
+447,GME,Retail Trade
+448,GNTX,Producer Manufacturing
+449,GNUS,Consumer Services
+450,GNW,Finance
+451,GOCO,Finance
+452,GOED,Retail Trade
+453,GOEV,Consumer Durables
+454,GOGL,Transportation
+455,GOGO,Communications
+456,GOL,Transportation
+457,GOLD,Non-Energy Minerals
+458,GOOG,Technology Services
+459,GOOGL,Technology Services
+460,GOTU,Technology Services
+461,GPK,Process Industries
+462,GPL,Non-Energy Minerals
+463,GPN,Technology Services
+464,GPRO,Consumer Durables
+465,GPS,Retail Trade
+466,GRUB,Retail Trade
+467,GRWG,Distribution Services
+468,GS,Finance
+469,GSAT,Communications
+470,GSK,Health Technology
+471,GSM,Process Industries
+472,GT,Consumer Durables
+473,GTE,Energy Minerals
+474,GTHX,Health Technology
+475,HAL,Industrial Services
+476,HBAN,Finance
+477,HBI,Consumer Non-Durables
+478,HBM,Non-Energy Minerals
+479,HCA,Health Services
+480,HD,Retail Trade
+481,HDB,Finance
+482,HES,Energy Minerals
+483,HEXO,Process Industries
+484,HFC,Energy Minerals
+485,HGEN,Health Technology
+486,HIG,Finance
+487,HIMS,Technology Services
+488,HIMX,Electronic Technology
+489,HL,Non-Energy Minerals
+490,HLT,Consumer Services
+491,HLX,Industrial Services
+492,HMC,Consumer Durables
+493,HMHC,Consumer Services
+494,HMY,Non-Energy Minerals
+495,HOFV,Consumer Services
+496,HOG,Consumer Durables
+497,HOLX,Health Technology
+498,HOME,Retail Trade
+499,HON,Producer Manufacturing
+500,HP,Industrial Services
+501,HPE,Electronic Technology
+502,HPQ,Electronic Technology
+503,HRB,Consumer Services
+504,HRL,Consumer Non-Durables
+505,HRTX,Health Technology
+506,HSBC,Finance
+507,HSIC,Distribution Services
+508,HTHT,Consumer Services
+509,HUN,Process Industries
+510,HUYA,Technology Services
+511,HWM,Electronic Technology
+512,HYLN,Producer Manufacturing
+513,HZNP,Health Technology
+514,IAA,Retail Trade
+515,IAC,Technology Services
+516,IAG,Non-Energy Minerals
+517,IAU,Miscellaneous
+518,IBIO,Health Technology
+519,IBKR,Finance
+520,IBM,Technology Services
+521,IBN,Finance
+522,ICE,Finance
+523,ICPT,Health Technology
+524,IDEX,Technology Services
+525,IFF,Consumer Non-Durables
+526,IGT,Consumer Services
+527,IHRT,Consumer Services
+528,IIVI,Electronic Technology
+529,IMGN,Health Technology
+530,IMMP,Health Technology
+531,IMVT,Health Technology
+532,INFI,Health Technology
+533,INFN,Electronic Technology
+534,INFO,Technology Services
+535,INFY,Technology Services
+536,ING,Finance
+537,INO,Health Technology
+538,INSG,Electronic Technology
+539,INSM,Health Technology
+540,INTC,Electronic Technology
+541,INTU,Technology Services
+542,IONS,Health Technology
+543,IOVA,Health Technology
+544,IP,Process Industries
+545,IPG,Commercial Services
+546,IPOF,Finance
+547,IQ,Technology Services
+548,IQV,Health Services
+549,IR,Producer Manufacturing
+550,IRWD,Health Technology
+551,ISBC,Finance
+552,ITRM,Health Technology
+553,ITUB,Finance
+554,IVZ,Finance
+555,IZEA,Technology Services
+556,JAGX,Health Technology
+557,JBLU,Transportation
+558,JCI,Producer Manufacturing
+559,JD,Retail Trade
+560,JEF,Finance
+561,JKS,Producer Manufacturing
+562,JMIA,Technology Services
+563,JNJ,Health Technology
+564,JNPR,Technology Services
+565,JPM,Finance
+566,JWN,Retail Trade
+567,K,Consumer Non-Durables
+568,KALA,Health Technology
+569,KAR,Commercial Services
+570,KBH,Consumer Durables
+571,KBR,Technology Services
+572,KC,Technology Services
+573,KDMN,Health Technology
+574,KDP,Consumer Non-Durables
+575,KEY,Finance
+576,KGC,Non-Energy Minerals
+577,KHC,Consumer Non-Durables
+578,KKR,Finance
+579,KL,Non-Energy Minerals
+580,KLAC,Electronic Technology
+581,KMB,Consumer Non-Durables
+582,KMI,Industrial Services
+583,KMX,Retail Trade
+584,KNDI,Consumer Durables
+585,KNX,Transportation
+586,KO,Consumer Non-Durables
+587,KODK,Electronic Technology
+588,KOPN,Electronic Technology
+589,KOS,Energy Minerals
+590,KOSS,Consumer Durables
+591,KPTI,Health Technology
+592,KR,Retail Trade
+593,KSS,Retail Trade
+594,KSU,Transportation
+595,LAC,Process Industries
+596,LAZR,Producer Manufacturing
+597,LB,Retail Trade
+598,LBRT,Industrial Services
+599,LBTYA,Consumer Services
+600,LBTYK,Consumer Services
+601,LC,Finance
+602,LCTX,Health Technology
+603,LEN,Consumer Durables
+604,LESL,Retail Trade
+605,LEV,Finance
+606,LEVI,Consumer Non-Durables
+607,LFMD,Process Industries
+608,LHX,Electronic Technology
+609,LI,Producer Manufacturing
+610,LIN,Process Industries
+611,LITE,Producer Manufacturing
+612,LIVX,Commercial Services
+613,LIZI,Technology Services
+614,LKCO,Technology Services
+615,LKQ,Consumer Durables
+616,LLNW,Technology Services
+617,LLY,Health Technology
+618,LMND,Finance
+619,LMT,Electronic Technology
+620,LNC,Finance
+621,LNG,Industrial Services
+622,LNT,Utilities
+623,LODE,Non-Energy Minerals
+624,LOTZ,Retail Trade
+625,LOW,Retail Trade
+626,LPX,Non-Energy Minerals
+627,LRCX,Electronic Technology
+628,LTHM,Process Industries
+629,LU,Technology Services
+630,LULU,Retail Trade
+631,LUMN,Communications
+632,LUV,Transportation
+633,LVS,Consumer Services
+634,LX,Finance
+635,LYB,Process Industries
+636,LYFT,Technology Services
+637,LYG,Finance
+638,LYV,Consumer Services
+639,M,Retail Trade
+640,MA,Finance
+641,MAR,Consumer Services
+642,MARA,Technology Services
+643,MAS,Producer Manufacturing
+644,MAT,Consumer Durables
+645,MBIO,Health Technology
+646,MBT,Communications
+647,MCD,Consumer Services
+648,MCF,Energy Minerals
+649,MCHP,Electronic Technology
+650,MCK,Distribution Services
+651,MDLA,Technology Services
+652,MDLZ,Consumer Non-Durables
+653,MDRX,Technology Services
+654,MDT,Health Technology
+655,MET,Finance
+656,MFC,Finance
+657,MGA,Producer Manufacturing
+658,MGI,Commercial Services
+659,MGM,Consumer Services
+660,MGNI,Commercial Services
+661,MGY,Energy Minerals
+662,MICT,Electronic Technology
+663,MILE,Finance
+664,MKC,Consumer Non-Durables
+665,MLCO,Consumer Services
+666,MMC,Finance
+667,MMM,Producer Manufacturing
+668,MMP,Industrial Services
+669,MNKD,Health Technology
+670,MNST,Consumer Non-Durables
+671,MO,Consumer Non-Durables
+672,MOMO,Technology Services
+673,MOS,Process Industries
+674,MOXC,Technology Services
+675,MP,Non-Energy Minerals
+676,MPC,Energy Minerals
+677,MPLN,Finance
+678,MPLX,Industrial Services
+679,MRK,Health Technology
+680,MRKR,Health Technology
+681,MRNA,Health Technology
+682,MRO,Energy Minerals
+683,MRVI,Commercial Services
+684,MRVL,Electronic Technology
+685,MS,Finance
+686,MSFT,Technology Services
+687,MT,Non-Energy Minerals
+688,MTCH,Technology Services
+689,MTDR,Energy Minerals
+690,MTG,Finance
+691,MU,Electronic Technology
+692,MUDS,Finance
+693,MUFG,Finance
+694,MUR,Energy Minerals
+695,MUX,Non-Energy Minerals
+696,MVIS,Electronic Technology
+697,MXIM,Electronic Technology
+698,NAK,Non-Energy Minerals
+699,NAKD,Consumer Non-Durables
+700,NAT,Transportation
+701,NAVI,Finance
+702,NBEV,Consumer Non-Durables
+703,NCLH,Consumer Services
+704,NCR,Electronic Technology
+705,NEE,Utilities
+706,NEM,Non-Energy Minerals
+707,NEPT,Health Technology
+708,NET,Technology Services
+709,NEX,Industrial Services
+710,NFLX,Consumer Services
+711,NGD,Non-Energy Minerals
+712,NGL,Industrial Services
+713,NI,Utilities
+714,NIO,Consumer Durables
+715,NKE,Consumer Non-Durables
+716,NKLA,Consumer Durables
+717,NLOK,Technology Services
+718,NLSN,Commercial Services
+719,NMTR,Health Technology
+720,NNDM,Producer Manufacturing
+721,NNOX,Health Technology
+722,NOK,Electronic Technology
+723,NOV,Industrial Services
+724,NOVA,Distribution Services
+725,NOW,Technology Services
+726,NRG,Utilities
+727,NSC,Transportation
+728,NTAP,Electronic Technology
+729,NTES,Technology Services
+730,NTLA,Health Technology
+731,NTNX,Technology Services
+732,NTR,Process Industries
+733,NUAN,Technology Services
+734,NUE,Non-Energy Minerals
+735,NVAX,Health Technology
+736,NVDA,Electronic Technology
+737,NVS,Health Technology
+738,NVST,Health Technology
+739,NVTA,Health Services
+740,NWG,Finance
+741,NWL,Producer Manufacturing
+742,NWSA,Consumer Services
+743,NXE,Non-Energy Minerals
+744,NXPI,Electronic Technology
+745,NYCB,Finance
+746,NYT,Consumer Services
+747,OCGN,Health Technology
+748,OEG,Producer Manufacturing
+749,OGE,Utilities
+750,OGI,Process Industries
+751,OI,Process Industries
+752,OII,Industrial Services
+753,OIS,Industrial Services
+754,OKE,Industrial Services
+755,OKTA,Technology Services
+756,OLLI,Retail Trade
+757,OLN,Process Industries
+758,OMC,Commercial Services
+759,OMF,Finance
+760,OMI,Distribution Services
+761,ON,Electronic Technology
+762,ONEM,Health Services
+763,OPEN,Technology Services
+764,OPK,Health Technology
+765,ORBC,Communications
+766,ORCC,Finance
+767,ORCL,Technology Services
+768,ORGO,Health Technology
+769,ORI,Finance
+770,OSH,Health Services
+771,OSTK,Retail Trade
+772,OTIS,Producer Manufacturing
+773,OVV,Energy Minerals
+774,OXY,Energy Minerals
+775,OZON,Retail Trade
+776,PAA,Industrial Services
+777,PAAS,Non-Energy Minerals
+778,PACB,Health Technology
+779,PAGP,Industrial Services
+780,PAGS,Commercial Services
+781,PANW,Electronic Technology
+782,PAVM,Health Technology
+783,PAYA,Commercial Services
+784,PAYX,Technology Services
+785,PBA,Industrial Services
+786,PBCT,Finance
+787,PBF,Energy Minerals
+788,PBI,Producer Manufacturing
+789,PBR,Energy Minerals
+790,PBR.A,Energy Minerals
+791,PCAR,Producer Manufacturing
+792,PCG,Utilities
+793,PCT,Industrial Services
+794,PD,Technology Services
+795,PDD,Retail Trade
+796,PDSB,Health Technology
+797,PEG,Utilities
+798,PENN,Consumer Services
+799,PEP,Consumer Non-Durables
+800,PFE,Health Technology
+801,PFG,Finance
+802,PFGC,Distribution Services
+803,PFPT,Technology Services
+804,PG,Consumer Non-Durables
+805,PGR,Finance
+806,PHM,Consumer Durables
+807,PINS,Technology Services
+808,PIRS,Health Technology
+809,PLAN,Technology Services
+810,PLAY,Consumer Services
+811,PLBY,Consumer Services
+812,PLTR,Technology Services
+813,PLUG,Electronic Technology
+814,PLYA,Consumer Services
+815,PM,Consumer Non-Durables
+816,PNC,Finance
+817,PNR,Producer Manufacturing
+818,POWW,Electronic Technology
+819,PPD,Commercial Services
+820,PPG,Process Industries
+821,PPL,Utilities
+822,PRCH,Technology Services
+823,PRGO,Health Technology
+824,PRMW,Consumer Non-Durables
+825,PRPL,Miscellaneous
+826,PRTY,Retail Trade
+827,PRU,Finance
+828,PRVB,Health Technology
+829,PSEC,Finance
+830,PSFE,Commercial Services
+831,PSTG,Electronic Technology
+832,PSTH,Finance
+833,PSX,Energy Minerals
+834,PTEN,Industrial Services
+835,PTON,Consumer Services
+836,PWR,Industrial Services
+837,PXD,Energy Minerals
+838,PYPL,Technology Services
+839,QCOM,Electronic Technology
+840,QD,Technology Services
+841,QFIN,Finance
+842,QRTEA,Retail Trade
+843,QRVO,Electronic Technology
+844,QS,Producer Manufacturing
+845,QSR,Consumer Services
+846,QTT,Technology Services
+847,RAD,Retail Trade
+848,RCL,Consumer Services
+849,RCM,Commercial Services
+850,RDFN,Finance
+851,RDN,Finance
+852,RDS.A,Energy Minerals
+853,RDS.B,Energy Minerals
+854,REAL,Retail Trade
+855,REI,Energy Minerals
+856,RESN,Electronic Technology
+857,RF,Finance
+858,RFP,Process Industries
+859,RIDE,Consumer Durables
+860,RIG,Industrial Services
+861,RIGL,Health Technology
+862,RIO,Non-Energy Minerals
+863,RIOT,Finance
+864,RKT,Finance
+865,RL,Retail Trade
+866,RLGY,Finance
+867,RLX,Producer Manufacturing
+868,RMO,Producer Manufacturing
+869,RNG,Technology Services
+870,ROKU,Consumer Durables
+871,ROL,Consumer Services
+872,ROOT,Finance
+873,ROST,Retail Trade
+874,RPRX,Health Technology
+875,RRC,Energy Minerals
+876,RRD,Commercial Services
+877,RSG,Industrial Services
+878,RSI,Consumer Services
+879,RTX,Electronic Technology
+880,RUN,Utilities
+881,RVLV,Retail Trade
+882,RY,Finance
+883,SABR,Technology Services
+884,SAIL,Technology Services
+885,SAN,Finance
+886,SAND,Non-Energy Minerals
+887,SAVA,Health Technology
+888,SAVE,Transportation
+889,SB,Transportation
+890,SBBP,Health Technology
+891,SBH,Retail Trade
+892,SBLK,Transportation
+893,SBS,Utilities
+894,SBSW,Non-Energy Minerals
+895,SBUX,Consumer Services
+896,SCCO,Non-Energy Minerals
+897,SCHW,Finance
+898,SDC,Health Services
+899,SE,Technology Services
+900,SEE,Process Industries
+901,SEEL,Health Technology
+902,SELB,Health Technology
+903,SENS,Electronic Technology
+904,SESN,Health Technology
+905,SFIX,Retail Trade
+906,SFL,Transportation
+907,SFM,Retail Trade
+908,SFT,Finance
+909,SHC,Health Technology
+910,SHLS,Electronic Technology
+911,SHLX,Industrial Services
+912,SHOP,Retail Trade
+913,SHW,Process Industries
+914,SI,Finance
+915,SID,Non-Energy Minerals
+916,SIRI,Consumer Services
+917,SIX,Consumer Services
+918,SJI,Utilities
+919,SJM,Consumer Non-Durables
+920,SKLZ,Technology Services
+921,SKX,Consumer Non-Durables
+922,SLB,Industrial Services
+923,SLCA,Non-Energy Minerals
+924,SLM,Finance
+925,SLQT,Finance
+926,SM,Energy Minerals
+927,SMAR,Technology Services
+928,SMFG,Finance
+929,SNAP,Technology Services
+930,SNDL,Process Industries
+931,SNOW,Technology Services
+932,SNY,Health Technology
+933,SO,Utilities
+934,SOL,Electronic Technology
+935,SOLO,Consumer Durables
+936,SONO,Electronic Technology
+937,SOS,Technology Services
+938,SPCE,Electronic Technology
+939,SPGI,Commercial Services
+940,SPLK,Technology Services
+941,SPOT,Technology Services
+942,SPPI,Health Technology
+943,SPR,Electronic Technology
+944,SPWR,Producer Manufacturing
+945,SQ,Technology Services
+946,SQM,Process Industries
+947,SRE,Utilities
+948,SRGA,Health Technology
+949,SRNE,Health Technology
+950,SRPT,Health Technology
+951,SSNC,Technology Services
+952,SSRM,Non-Energy Minerals
+953,SSYS,Electronic Technology
+954,STEM,Finance
+955,STL,Finance
+956,STLA,Consumer Durables
+957,STLD,Non-Energy Minerals
+958,STM,Electronic Technology
+959,STNE,Technology Services
+960,STT,Finance
+961,STX,Electronic Technology
+962,SU,Energy Minerals
+963,SUM,Non-Energy Minerals
+964,SUMO,Technology Services
+965,SUNW,Producer Manufacturing
+966,SURF,Health Technology
+967,SVM,Non-Energy Minerals
+968,SVRA,Health Technology
+969,SWBI,Electronic Technology
+970,SWCH,Technology Services
+971,SWK,Consumer Durables
+972,SWKS,Electronic Technology
+973,SWN,Energy Minerals
+974,SY,Technology Services
+975,SYF,Finance
+976,SYK,Health Technology
+977,SYNH,Commercial Services
+978,SYRS,Health Technology
+979,SYY,Distribution Services
+980,T,Communications
+981,TAK,Health Technology
+982,TAL,Commercial Services
+983,TAP,Consumer Non-Durables
+984,TBA,Finance
+985,TCOM,Consumer Services
+986,TD,Finance
+987,TDOC,Health Services
+988,TEAM,Technology Services
+989,TECK,Non-Energy Minerals
+990,TEF,Communications
+991,TEL,Electronic Technology
+992,TELL,Energy Minerals
+993,TEN,Producer Manufacturing
+994,TER,Electronic Technology
+995,TEVA,Health Technology
+996,TFC,Finance
+997,TGB,Non-Energy Minerals
+998,TGNA,Consumer Services
+999,TGT,Retail Trade
+1000,TGTX,Health Technology
+1001,TIGR,Finance
+1002,TJX,Retail Trade
+1003,TKAT,Technology Services
+1004,TLRY,Process Industries
+1005,TMDI,Health Technology
+1006,TME,Technology Services
+1007,TMHC,Consumer Durables
+1008,TMO,Health Technology
+1009,TMUS,Communications
+1010,TNXP,Health Technology
+1011,TOL,Consumer Durables
+1012,TOT,Energy Minerals
+1013,TPH,Consumer Durables
+1014,TPR,Retail Trade
+1015,TPX,Consumer Durables
+1016,TRCH,Consumer Services
+1017,TRGP,Energy Minerals
+1018,TRIP,Consumer Services
+1019,TRMB,Electronic Technology
+1020,TROW,Finance
+1021,TROX,Process Industries
+1022,TRP,Industrial Services
+1023,TRU,Technology Services
+1024,TRUE,Technology Services
+1025,TRV,Finance
+1026,TRVG,Technology Services
+1027,TRVN,Health Technology
+1028,TS,Non-Energy Minerals
+1029,TSCO,Retail Trade
+1030,TSLA,Consumer Durables
+1031,TSM,Electronic Technology
+1032,TSN,Consumer Non-Durables
+1033,TT,Producer Manufacturing
+1034,TTCF,Consumer Non-Durables
+1035,TTI,Industrial Services
+1036,TTM,Consumer Durables
+1037,TTOO,Health Technology
+1038,TTWO,Consumer Durables
+1039,TU,Communications
+1040,TV,Consumer Services
+1041,TWLO,Technology Services
+1042,TWNK,Consumer Non-Durables
+1043,TWTR,Technology Services
+1044,TXMD,Health Technology
+1045,TXN,Electronic Technology
+1046,TXT,Electronic Technology
+1047,TYME,Health Technology
+1048,U,Technology Services
+1049,UA,Consumer Non-Durables
+1050,UAA,Consumer Non-Durables
+1051,UAL,Transportation
+1052,UAVS,Electronic Technology
+1053,UBER,Technology Services
+1054,UBS,Finance
+1055,UEC,Non-Energy Minerals
+1056,UFS,Process Industries
+1057,UGI,Utilities
+1058,UGP,Energy Minerals
+1059,UL,Consumer Non-Durables
+1060,UMC,Electronic Technology
+1061,UMPQ,Finance
+1062,UNFI,Distribution Services
+1063,UNH,Health Services
+1064,UNM,Finance
+1065,UNP,Transportation
+1066,UNVR,Distribution Services
+1067,UONE,Consumer Services
+1068,UPS,Transportation
+1069,UPST,Technology Services
+1070,UPWK,Technology Services
+1071,URBN,Retail Trade
+1072,URG,Non-Energy Minerals
+1073,USAS,Non-Energy Minerals
+1074,USB,Finance
+1075,USFD,Distribution Services
+1076,UUUU,Non-Energy Minerals
+1077,UWMC,Finance
+1078,UXIN,Technology Services
+1079,V,Finance
+1080,VALE,Non-Energy Minerals
+1081,VBIV,Health Technology
+1082,VEDL,Non-Energy Minerals
+1083,VEON,Communications
+1084,VET,Energy Minerals
+1085,VFC,Consumer Non-Durables
+1086,VFF,Process Industries
+1087,VG,Communications
+1088,VIAC,Consumer Services
+1089,VIAV,Technology Services
+1090,VIEW,Process Industries
+1091,VIPS,Retail Trade
+1092,VIRT,Finance
+1093,VIV,Communications
+1094,VKTX,Health Technology
+1095,VLDR,Electronic Technology
+1096,VLO,Energy Minerals
+1097,VLY,Finance
+1098,VMW,Technology Services
+1099,VNET,Technology Services
+1100,VNT,Transportation
+1101,VOD,Communications
+1102,VOYA,Finance
+1103,VRAY,Health Technology
+1104,VRM,Retail Trade
+1105,VRT,Electronic Technology
+1106,VRTX,Health Technology
+1107,VST,Utilities
+1108,VSTM,Health Technology
+1109,VSTO,Consumer Durables
+1110,VTGN,Health Technology
+1111,VTNR,Industrial Services
+1112,VTRS,Health Technology
+1113,VTVT,Health Technology
+1114,VUZI,Electronic Technology
+1115,VVV,Process Industries
+1116,VXRT,Health Technology
+1117,VZ,Communications
+1118,W,Retail Trade
+1119,WAB,Producer Manufacturing
+1120,WB,Technology Services
+1121,WBA,Retail Trade
+1122,WBT,Producer Manufacturing
+1123,WDAY,Technology Services
+1124,WDC,Electronic Technology
+1125,WEC,Utilities
+1126,WEN,Consumer Services
+1127,WES,Energy Minerals
+1128,WETF,Finance
+1129,WFC,Finance
+1130,WIMI,Technology Services
+1131,WISH,Retail Trade
+1132,WIT,Technology Services
+1133,WKHS,Producer Manufacturing
+1134,WLTW,Finance
+1135,WM,Industrial Services
+1136,WMB,Industrial Services
+1137,WMT,Retail Trade
+1138,WOOF,Retail Trade
+1139,WORK,Technology Services
+1140,WPF,Finance
+1141,WPM,Non-Energy Minerals
+1142,WPRT,Producer Manufacturing
+1143,WRK,Process Industries
+1144,WRN,Non-Energy Minerals
+1145,WSC,Finance
+1146,WSM,Retail Trade
+1147,WTI,Energy Minerals
+1148,WTRH,Retail Trade
+1149,WU,Finance
+1150,WYNN,Consumer Services
+1151,X,Non-Energy Minerals
+1152,XEC,Energy Minerals
+1153,XEL,Utilities
+1154,XERS,Health Technology
+1155,XL,Producer Manufacturing
+1156,XLNX,Electronic Technology
+1157,XOM,Energy Minerals
+1158,XP,Technology Services
+1159,XPEV,Consumer Durables
+1160,XRAY,Health Technology
+1161,XRX,Electronic Technology
+1162,XXII,Health Technology
+1163,YALA,Technology Services
+1164,YETI,Producer Manufacturing
+1165,YEXT,Technology Services
+1166,YNDX,Technology Services
+1167,YPF,Energy Minerals
+1168,YSG,Retail Trade
+1169,YUM,Consumer Services
+1170,YUMC,Consumer Services
+1171,YY,Technology Services
+1172,Z,Technology Services
+1173,ZBH,Health Technology
+1174,ZI,Technology Services
+1175,ZION,Finance
+1176,ZIOP,Health Technology
+1177,ZM,Technology Services
+1178,ZNGA,Technology Services
+1179,ZOM,Miscellaneous
+1180,ZS,Technology Services
+1181,ZTO,Transportation
+1182,ZTS,Health Technology
+1183,ZYNE,Health Technology
